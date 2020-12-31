@@ -1,0 +1,4 @@
+Site para:
+  - Divulgar o campeonato do dia 31/01
+  - Formulário para inscrição
+  - Link para download do programa
